@@ -10,7 +10,7 @@
   },
   "envs": {
     "SESSION_ID": {
-      "description": "put your session id"
+    }"description": "put your session id"
     }
   }
 }
